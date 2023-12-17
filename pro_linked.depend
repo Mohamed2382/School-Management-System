@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1691338772 source:d:\nti\project\pro_linked\main.c
+	<stdio.h>
+	"student.h"
+
+1691213856 d:\nti\project\pro_linked\student.h
+
+1691517139 source:d:\nti\project\pro_linked\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"student.h"
+
